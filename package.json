@@ -1,7 +1,9 @@
 {
-  "name": "store_it",
+  "name": "storage-management-solution",
   "version": "0.1.0",
   "private": true,
+  "author": "Phạm Lê Ngọc Sơn",
+  "description": "Advanced storage management database solution",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",

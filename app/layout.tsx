@@ -10,8 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "StoreIt",
-  description: "StoreIt - The only storage solution you need.",
+  title: "StoreIt by Phạm Lê Ngọc Sơn",
+  description: "StoreIt - Advanced storage management solution by Phạm Lê Ngọc Sơn",
 };
 
 export default function RootLayout({
